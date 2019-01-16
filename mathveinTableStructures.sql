@@ -10,7 +10,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `id7233329_mathvein`
+-- Database: `mathvein`
 --
 CREATE DATABASE IF NOT EXISTS `mathveinDB` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 USE `mathveinDB`;
